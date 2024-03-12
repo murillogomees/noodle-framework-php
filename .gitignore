@@ -1,0 +1,9 @@
+.ssh
+.git
+.github
+.devcontainer
+.htaccess
+app-assets.old
+assets/uploads/*
+app/config/db.config.php
+LICENSE
